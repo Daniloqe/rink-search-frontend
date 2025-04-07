@@ -2,6 +2,7 @@
   "name": "rink-search-frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://daniloqe.github.io/rink-search-frontend",
   "dependencies": {
     "@react-google-maps/api": "^2.20.6",
     "@testing-library/dom": "^10.4.0",
