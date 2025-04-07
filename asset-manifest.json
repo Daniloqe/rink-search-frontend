@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rink-search-frontend/static/css/main.5bd4f294.css",
+    "main.js": "/rink-search-frontend/static/js/main.f96be306.js",
+    "static/js/453.34cf5132.chunk.js": "/rink-search-frontend/static/js/453.34cf5132.chunk.js",
+    "static/media/background.jpg": "/rink-search-frontend/static/media/background.38f533e49c162b6ca050.jpg",
+    "index.html": "/rink-search-frontend/index.html",
+    "main.5bd4f294.css.map": "/rink-search-frontend/static/css/main.5bd4f294.css.map",
+    "main.f96be306.js.map": "/rink-search-frontend/static/js/main.f96be306.js.map",
+    "453.34cf5132.chunk.js.map": "/rink-search-frontend/static/js/453.34cf5132.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bd4f294.css",
+    "static/js/main.f96be306.js"
+  ]
+}
